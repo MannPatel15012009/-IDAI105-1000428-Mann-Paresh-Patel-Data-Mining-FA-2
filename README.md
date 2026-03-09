@@ -6,7 +6,7 @@ An interactive data mining application for FinTrust Bank Ltd. that transforms ra
 
 **Live Demo:** [https://45ozrhhclerxxenvhikere.streamlit.app/](https://45ozrhhclerxxenvhikere.streamlit.app/)
 
-![App Screenshot](assets/screenshot.png)
+
 
 ---
 
@@ -249,14 +249,5 @@ Anomaly detection with IQR and Isolation Forest
 
 Interactive planner with real-time filtering
 
-Version 1.1.0 (Coming Soon)
-Time series forecasting with Prophet
-
-Geographic heatmaps for ATM locations
-
-Automated report generation
-
-Multi-language support
-
-###Made with ❤️ for Data Mining FA-2
+###Made for Data Mining FA-2
 © 2026 All Rights Reserved   
