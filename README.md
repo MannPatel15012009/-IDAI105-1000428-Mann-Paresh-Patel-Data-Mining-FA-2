@@ -233,10 +233,6 @@ For questions, feedback, or issues:
 
 GitHub Issues: Create an issue
 
-Email: your.email@example.com
-
-Twitter: @yourhandle
-
 ## 🗓️ Changelog
 Version 1.0.0 (March 2026)
 Initial release with complete FA-2 functionality
