@@ -4,7 +4,7 @@
 
 An interactive data mining application for FinTrust Bank Ltd. that transforms raw ATM transaction data into actionable business insights. This dashboard performs comprehensive exploratory data analysis (EDA), clusters ATMs based on demand behavior, detects anomalies during holidays/events, and provides an interactive planning tool for cash management optimization.
 
-**Live Demo:** [https://45ozrhhclerxxenvhikere.streamlit.app/](https://45ozrhhclerxxenvhikere.streamlit.app/)
+**Live Demo:** [https://idai105-1000428-mann-paresh-patel-data-mining-fa-2.streamlit.app/](https://idai105-1000428-mann-paresh-patel-data-mining-fa-2.streamlit.app/)
 
 
 
