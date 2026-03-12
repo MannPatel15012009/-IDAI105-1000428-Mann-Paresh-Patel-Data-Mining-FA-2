@@ -41,7 +41,7 @@ st.markdown("Interactive dashboard for exploratory analysis, clustering, and ano
 def load_data():
     """Load the ATM dataset from CSV."""
     try:
-        df = pd.read_csv("atm_cash_management_dataset (1).csv")
+        df = pd.read_csv("atm_cash_management_dataset.csv")
         # Convert Date column to datetime
         df["Date"] = pd.to_datetime(df["Date"])
         # Create additional useful columns
@@ -49,10 +49,10 @@ def load_data():
         df["Year"] = df["Date"].dt.year
         df["Day"] = df["Date"].dt.day
         df["Is_Weekend"] = df["Day_of_Week"].isin(["Saturday", "Sunday"]).astype(int)
-        st.success("✅ Loaded real dataset from atm_cash_management_dataset (1).csv")
+        st.success("✅ Loaded real dataset from atm_cash_management_dataset.csv")
         return df
     except FileNotFoundError:
-        st.error("❌ Dataset file not found. Please ensure 'atm_cash_management_dataset (1).csv' is in the same directory.")
+        st.error("❌ Dataset file not found. Please ensure 'atm_cash_management_dataset.csv' is in the same directory.")
         st.stop()
     except Exception as e:
         st.error(f"Error loading data: {e}")
