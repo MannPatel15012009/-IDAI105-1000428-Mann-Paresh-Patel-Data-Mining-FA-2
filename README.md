@@ -245,5 +245,5 @@ Anomaly detection with IQR and Isolation Forest
 
 Interactive planner with real-time filtering
 
-###Made for Data Mining FA-2
+### Made for Data Mining FA-2
 © 2026 All Rights Reserved   
